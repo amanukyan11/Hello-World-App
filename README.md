@@ -6,7 +6,7 @@ Enter custom text, change text color, and change the background color of your He
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/dW26E2Ezom.gif" width=200><br>
+<img src="http://g.recordit.co/scGPFRaOcs.gif" width=200><br>
 
 
 
